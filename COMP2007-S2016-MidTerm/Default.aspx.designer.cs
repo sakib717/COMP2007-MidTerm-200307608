@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_S2016_MidTerm
-{
-
-
-    public partial class Default
-    {
-
+namespace COMP2007_S2016_MidTerm {
+    
+    
+    public partial class Default {
+        
         /// <summary>
         /// Jumbotron1 control.
         /// </summary>
